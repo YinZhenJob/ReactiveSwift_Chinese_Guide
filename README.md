@@ -1,2 +1,4 @@
-# ReactiveSwift_Chinese_Guide
-When I studying ReactiveSwift , I find out there are less introduction about it with chinese. 
+# ReactiveSwift 中文介绍
+因为想学习RSwift但发现中文相关介绍比较少，鉴于方便国内同好所以打算将相关资料翻译。目前正在做准备工作，希望有共同兴趣的朋友一起来加入这个行列。
+
+​														—— 2017.03.08
