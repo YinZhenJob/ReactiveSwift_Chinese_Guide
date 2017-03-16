@@ -1,6 +1,6 @@
-### [Getting Started](oo)
+### [Getting Started](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Introduction.md)
 
-#### [BasicOperators]()
+#### [BasicOperators](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Base%20Operators.md)
 
 #### [FrameworkOverview]()
 
