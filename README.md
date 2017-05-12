@@ -16,8 +16,8 @@ Email： zohar_zeng@163.com
 
 ##### [让我们开始吧](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Introduction.md) Getting Started
 
-+ [基本运算符（未完）](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Base%20Operators.md)	(Basic Operators)
-+ 框架概述         (Framework Overview)
++ [基本运算符](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Base%20Operators.md)	(Basic Operators)
++ [框架概述(未完) ](https://github.com/YinZhenJob/ReactiveSwift_Chinese_Guide/blob/master/Getting%20Started/Framework%20Overview.md)        (Framework Overview)
 + 调试技巧         (Debugging Techniques)
 + 设计指南         (DesignGuidenlines)
 
@@ -54,7 +54,7 @@ Email： zohar_zeng@163.com
 ##### 绑定  Bindings
 
 + 源绑定协议	(BindingSourceProtocol)
-+ 目标绑定	        (BindingTarget)
++ 目标绑定        (BindingTarget)
 + 目标绑定协议 (BindingTargetProtocol)
 
 ##### 任务计划  Schedulers
